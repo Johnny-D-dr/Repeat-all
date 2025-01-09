@@ -1,1 +1,2 @@
 asa a spus Sorin
+incer sa inteleg "git pull"
